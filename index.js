@@ -88,12 +88,10 @@ const snowFall = () => {
   glowingText(count);
   
 
-  const both= () =>{
-    console.log(i + '1')
-  }
-  
-  function both() {
-    setTimeout(function() {
-        window.location.href = "random_wishes.html";
-    }, 10000); // Redirect to the second page after 10 seconds
-}
+
+
+//   function both() {
+//     setTimeout(function() {
+//         window.location.href = "random_wishes.html";
+//     }, 10000); // Redirect to the second page after 10 seconds
+// }
